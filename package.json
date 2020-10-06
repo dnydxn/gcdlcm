@@ -1,0 +1,20 @@
+{
+  "name": "@dnydxn/gcdlcm",
+  "version": "1.0.0",
+  "description": "Fast and simple gcd/lcm implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "gcd",
+    "lcm",
+    "math"
+  ],
+  "author": "Oliver Kovacs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dnydxn/gcdlcm.git"
+  }
+}

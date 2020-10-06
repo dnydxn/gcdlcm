@@ -1,0 +1,4 @@
+.vscode
+.npmrc
+.npmignore
+test.js
